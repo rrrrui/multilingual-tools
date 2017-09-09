@@ -1,0 +1,22 @@
+{
+  "lang": "ru",
+  "my_progress": "Мой прогресс ",
+  "current_level": "Мой уровень",
+  "next_level": "Следующий уровень",
+  "current_progress": "Мой прогресс ",
+  "daily_task": "Ежедневное задание",
+  "broadcast": "Время трансляции (часы)",
+  "fans_amout": "Количество фанатов",
+  "rulee": "Правила",
+  "level": "Уровень",
+  "title": "Заголовок",
+  "award": "Награда",
+  "rules": [
+    "1. Emisores e invitados pueden acumular puntos de carisma recibiendo regalos (1 diamante=10 puntos);",
+    "Enterance effect (1 hari) akan diberikan saat charms points mencapai F7.",
+    "3. El invitado conseguirá el 50% de las semillas recibidas;",
+    "4. Cuando los puntos de carisma lleguen a 50000, obtendrás un Efecto dF7rada (1 día);",
+    "5. Cuando seas el que tiene más puntos de carisma de toda la sala de emisión (puntos≥200), conseguirás un fantástico marco de vídeo;",
+    "6. Si los invitados se van, los puntos de carisma serán borrados."
+  ]
+}

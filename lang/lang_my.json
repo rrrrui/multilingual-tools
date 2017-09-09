@@ -1,0 +1,22 @@
+{
+  "lang": "my",
+  "my_progress": "Tahap",
+  "current_level": "Tahap Semasa",
+  "next_level": "Tahap seterusnya",
+  "current_progress": "Kemajuan semasa",
+  "daily_task": "Tugasan harian",
+  "broadcast": "Masa Penyiaran (jam)",
+  "fans_amout": "Jumlah Fans",
+  "rulee": "Peraturan",
+  "level": "Tahap",
+  "title": "Tajuk",
+  "award": "Ganjaran",
+  "rules": [
+    "1. Chủ phòng và khách mời có thể tăng điểm sức hút bằng cách nhận quà trong khi lên mic (1 kim cương = 10 điểm sức hút).",
+    "2. Chủ phòng được hưởng 50% đậu khách mời được tặng và toàn bộ đậu chủ phòng được tặng.",
+    "3. Khách mời được hưởng 50% đậu mà mình được tặng.",
+    "4. Khi đạt 50000 điểm sức hút, bạn sẽ được tặng hiệu ứng phòng (1 ngày).",
+    "5. Khi đạt điểm sức hút cao nhất phòng live (điểm ≥ 200),  bạn sẽ được tặng hiệu hứng khung ảnh cực chất.",
+    "6. Khi khách mời rời phòng live, điểm sức hút sẽ về không."
+  ]
+}

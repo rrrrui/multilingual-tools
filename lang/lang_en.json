@@ -1,0 +1,22 @@
+{
+  "lang": "en",
+  "my_progress": "My Progress",
+  "current_level": "Current Level",
+  "next_level": "The next level",
+  "current_progress": "Current Progress",
+  "daily_task": "Daily Task",
+  "broadcast": "Broadcast Time（hour）",
+  "fans_amout": "Fans Amout",
+  "rulee": "Rules",
+  "level": "Level",
+  "title": "Title",
+  "award": "Award",
+  "rules": [
+    "The host and guests can improve their charm points by receiving gifts (1 diamond=10 points).",
+    "Guest can obtain 50% beans he/she received in multi-guests mode",
+    "The host can obtain 50% beans guests received and 100% beans himself/herself received in multi-guests mode",
+    "Guest will get one-day entrance effect when his/her charm points beyond 50000",
+    "The window will changed to a special style when a guest have the highest charm points( at least beyond 200) except of the host",
+    "When disconnected, charm points of the guest will be clear."
+  ]
+}

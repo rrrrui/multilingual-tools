@@ -1,0 +1,22 @@
+{
+  "lang": "es",
+  "my_progress": "Mi Progreso",
+  "current_level": "Nivel Actual",
+  "next_level": "Siguiente nivel",
+  "current_progress": "Progreso Actual",
+  "daily_task": "Tarea Diaria",
+  "broadcast": "Tiempo de Emisión (horas)",
+  "fans_amout": "Cantidad de Seguidores",
+  "rulee": "Reglas",
+  "level": "Nivel",
+  "title": "Título",
+  "award": "Premios",
+  "rules": [
+    "Broadcaster tamu dan host dapat meningkatkan charm point dengan menerima gift (1 diamond = 10 points)",
+    "Host akan mendapatkan semua beans mereka dan 50% beans dari gift yang diberikan broadcaster tamu.",
+    "Broadcaster tamu akan menerima 50% dari gift beans.",
+    "Enterance effect (1 hari) akan diberikan saat charms points mencapai 50000.",
+    "Frame video akan diberikan saat charm points mencapai level tertinggi di ruangan (points ≥ 200). ",
+    "Charm points akan dikosongkan jika broadcaster tamu meninggalkan ruangan."
+  ]
+}

@@ -1,13 +1,12 @@
 {
-  "name": "nodejs",
-  "version": "1.0.0",
-  "description": "",
-  "main": "xls.js",
-  "scripts": {
-    "start": "node xls.js"
-  },
+  "name": "excel2json-bigo",
+  "version": "0.0.1",
+  "description": "bigo-tools",
+  "main": "index.js",
+  "author": "Arui",
+  "license": "ISC",
   "devDependencies": {
-    "node-xlsx": "^0.10.0",
-    "rimraf": "^2.6.1"
+    "node-xlsx": "^0.11.0",
+    "rimraf": "^2.6.2"
   }
 }

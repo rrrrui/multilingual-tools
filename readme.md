@@ -8,17 +8,29 @@
 > 本着能脚本 不手动的想法，所以就写了一个webpack插件。
 
 ### npm install excel2json-bigo --save-dev
+#### 脚本：
+```
+// 之前想着把插件放在webpack中，但是这个东西又不是必要每次都要输出，
+// 所以把它单独 领出来当作一个脚本。
+new excel2json({
+   jsonDir: path.join(__dirname, './lang'),
+   excelPath: path.join(__dirname, './lang.xlsx'),
+   fileName:'lang_[key].[json]'
+})
+```
 
-#### webpack:
+
 ```js
-let excel2json = require('excel2json');
-plugins: [
-    new excel2json({
-        jsonDir: path.join(__dirname, './lang'),
-        excelPath: path.join(__dirname, './lang.xlsx'),
-        fileName:'lang_[key].[json]'
-    })
-]
+//取消了webpack 插件
+<!-- #### webpack: -->
+<!-- let excel2json = require('excel2json'); -->
+<!-- plugins: [ -->
+    <!-- new excel2json({ -->
+        <!-- jsonDir: path.join(__dirname, './lang'), -->
+        <!-- excelPath: path.join(__dirname, './lang.xlsx'), -->
+        <!-- fileName:'lang_[key].[json]' -->
+    <!-- }) -->
+<!-- ] -->
 ```
 
 - jsonDir output的文件夹。

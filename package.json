@@ -1,6 +1,6 @@
 {
   "name": "excel2json-bigo",
-  "version": "0.0.1",
+  "version": "0.0.5",
   "description": "bigo-tools",
   "main": "index.js",
   "author": "Arui",

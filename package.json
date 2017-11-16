@@ -1,12 +1,16 @@
 {
   "name": "excel2json-bigo",
-  "version": "0.0.5",
+  "version": "0.0.9",
   "description": "bigo-tools",
   "main": "index.js",
   "author": "Arui",
   "license": "ISC",
   "devDependencies": {
+  },
+  "dependencies": {
+    "babel-polyfill": "^6.26.0",
     "node-xlsx": "^0.11.0",
-    "rimraf": "^2.6.2"
+    "rimraf": "^2.6.2",
+    "md5": "^2.2.1"
   }
 }

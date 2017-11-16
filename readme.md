@@ -38,14 +38,14 @@ new excel2json({
 - fileName 输出文件的名称  `[key]`=>excel中的不同文件标识。`[json]`=>输出的文件类型
 ****
 > excel 表现数据的形式有限，目前只能转化普通键值对和数组
->>![arrDemo](./arrDemo.jpg) **==>** ![arrDemo](./arrOutputDemo.jpg)
+>>![arrDemo](./static/arrDemo.jpg) **==>** ![arrDemo](./static/arrOutputDemo.jpg)
 
 ### entry :
-> ![entry](./demo.jpg)
+> ![entry](./static/demo.jpg)
 
 ### output:
-> ![output](./outputDemo.jpg)
-  ![output](./outputDemo2.jpg)
+> ![output](./static/outputDemo.jpg)
+  ![output](./static/outputDemo2.jpg)
 
 
 

@@ -14,24 +14,12 @@
 // 所以把它单独 领出来当作一个脚本。
 new excel2json({
    jsonDir: path.join(__dirname, './lang'),
-   excelPath: path.join(__dirname, './lang.xlsx'),
-   fileName:'lang_[key].[json]'
+   excelPath: path.join(__dirname, './dev/files/lang.xlsx'),
+   fileName: 'lang_[key].[json]',
+   staticPath: '/live/lang/'
 })
 ```
 
-
-```js
-//取消了webpack 插件
-<!-- #### webpack: -->
-<!-- let excel2json = require('excel2json'); -->
-<!-- plugins: [ -->
-    <!-- new excel2json({ -->
-        <!-- jsonDir: path.join(__dirname, './lang'), -->
-        <!-- excelPath: path.join(__dirname, './lang.xlsx'), -->
-        <!-- fileName:'lang_[key].[json]' -->
-    <!-- }) -->
-<!-- ] -->
-```
 
 - jsonDir output的文件夹。
 - excelPath entry excel 的文件路径。
